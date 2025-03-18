@@ -1,0 +1,57 @@
+/* ======= COMMON CSS START ======= */
+a{
+    text-decoration: none;
+}
+/* ======= COMMON CSS END   ======= */
+/* ======= NAVBAR CSS START ======= */
+.cm-color{
+    background: #EEEDDE;
+}
+a.nav-link{
+    padding: 0px !important;
+    font-size: 16px !important;
+    font-weight: 300px;
+    color: #203239;
+}
+a.nav-link a :hover{
+    font-weight: 600px;
+}
+.navbar-nav{
+    column-gap: 100px;
+}
+/* ======= NAVBAR CSS END   ======= */
+/* ======= BANNER CSS START ======= */
+.banner-part{
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.banner-part h1{
+    font-size: 56px;
+    font-weight: 600px;
+    line-height: 150%;
+    font-family: "Poppins", sans-serif;
+}
+.banner-part p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    font-family: "Poppins", sans-serif;
+}
+.banner-part .pluscolor{
+    color: #FF7527;
+}
+.banner-part .skills-box{
+    column-gap: 72px;
+}
+.banner-part .sbox{
+    width: 150px;
+}
+.banner-part h3{
+    font-size: 56px;
+    font-weight: 600px;
+}
+.banner-part p{
+    font-size: 16px;
+    font-weight: 300px;
+}
+/* ======= BANNER CSS END   ======= */
